@@ -15,4 +15,4 @@ fuentes: [AGENTS.md, "Docs/MISION Y VISION DEL CENTRO  Y PRODUCTOS.docx"]
 - 2026-10-29 — Identidad Git configurada solo en este repositorio con el usuario/correo facilitados; primer commit local `17c9957`. No se cambió Git global.
 - 2026-10-29 — El usuario indicó subir todo el proyecto a `https://github.com/LuisRuiz35/Pagina-Wed-de-Luis-Ruiz.git`; incluirá el código existente según su instrucción. Mantener `Docs/` excluida según la regla establecida para fuentes empresariales privadas.
 - 2026-10-29 — El usuario confirmó explícitamente que autoriza que el contenido del proyecto quede visible públicamente en `https://github.com/LuisRuiz35/Pagina-Wed-de-Luis-Ruiz-.git`.
-- Pendiente operativo — `origin` está configurado al repositorio exacto; GitHub no está autenticado en este chat y aún no se ha enviado contenido.
+- 2026-10-29 — Se mantiene el push por Git como vía de publicación para preservar los commits locales. El intento autorizado de `git push -u origin master` falló porque este entorno no pudo resolver `github.com`; no se sustituyó el historial por commits creados mediante API.

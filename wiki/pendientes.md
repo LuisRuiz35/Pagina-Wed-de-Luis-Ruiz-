@@ -17,4 +17,4 @@ fuentes: [package.json, "Docs/TESTIMONIOS.docx", "Docs/PORTADA.jpeg", src/data/c
 - [ ] No se encontró ZIP original. El código ya extraído disponible es la base vigente en esta carpeta; solicitar ZIP solo si se necesita comprobar la procedencia o recuperar contenido.
 - [ ] Revisar el aviso de compatibilidad sobre `__dirname` de `vite.config.ts` en una futura actualización de Vite; la compilación actual sí termina correctamente.
 - [ ] Revisar vista previa en navegador en escritorio/móvil.
-- [ ] Completar el push público de los commits locales a `LuisRuiz35/Pagina-Wed-de-Luis-Ruiz-`; destino y visibilidad autorizados por el usuario. `origin` está configurado; este chat no tiene credenciales ni herramientas GitHub disponibles.
+- [ ] Completar el push público de los commits locales a `LuisRuiz35/Pagina-Wed-de-Luis-Ruiz-`; destino y visibilidad autorizados por el usuario. `git push -u origin master` no llegó a conectar por error DNS (`Could not resolve host: github.com`); reintentar cuando haya conectividad al host.

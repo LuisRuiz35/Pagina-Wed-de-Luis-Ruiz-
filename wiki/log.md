@@ -19,3 +19,8 @@ fuentes: [AGENTS.md]
 - El usuario corrigió el destino a `LuisRuiz35/Pagina-Wed-de-Luis-Ruiz-`. Se configuró `origin` con esa URL; el repositorio no devuelve refs. El `push` normal de `master` no pudo autenticarse y no envió commits.
 - El usuario confirmó que autoriza que el contenido quede visible públicamente en esa URL. El intento posterior de push falló por ausencia de credenciales; no se enviaron archivos. El plugin GitHub está instalado, pero sus herramientas no están disponibles en este chat.
 - Se abrió la página local en navegador: se revisó visualmente el encabezado y hero de escritorio. El botón principal abrió el formulario de citas; no se enviaron datos. Revisión móvil y recepción real aún pendientes.
+
+## [2026-10-29] publicación | Push solicitado por el usuario
+- Se confirmó que `master` estaba limpia y que había cinco commits locales; `Docs/` no aparece en Git.
+- Se intentó `git push -u origin master` hacia el remoto autorizado. Git no pudo resolver `github.com` y no envió commits.
+- Se conservó el método Git para preservar el historial; el push queda pendiente de restablecerse la conectividad DNS.
