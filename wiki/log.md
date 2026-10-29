@@ -17,4 +17,5 @@ fuentes: [AGENTS.md]
 - Se corrigió el rango de `esbuild` para resolver el conflicto de pares con Vite 8. La instalación completó; build y lint pasaron. No se revisó todavía la interfaz en un navegador.
 - El usuario indicó subir todo al repositorio GitHub existente `LuisRuiz35/Pagina-Wed-de-Luis-Ruiz`. No se encontró `gh` y Git no logró autenticarse; se identificó la integración de GitHub disponible para conectar. Aún no hay remoto configurado ni cambios enviados.
 - El usuario corrigió el destino a `LuisRuiz35/Pagina-Wed-de-Luis-Ruiz-`. Se configuró `origin` con esa URL; el repositorio no devuelve refs. El `push` normal de `master` no pudo autenticarse y no envió commits.
+- El usuario confirmó que autoriza que el contenido quede visible públicamente en esa URL. El intento posterior de push falló por ausencia de credenciales; no se enviaron archivos. El plugin GitHub está instalado, pero sus herramientas no están disponibles en este chat.
 - Se abrió la página local en navegador: se revisó visualmente el encabezado y hero de escritorio. El botón principal abrió el formulario de citas; no se enviaron datos. Revisión móvil y recepción real aún pendientes.
