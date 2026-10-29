@@ -1,0 +1,6 @@
+{
+  "name": "Centro de Rehabilitación Integral Daniel's",
+  "description": "Servicios de salud y rehabilitación integral: Fisioterapia, Terapia Respiratoria, Terapia Ocupacional, Fonoaudiología, Psicología y Neurodesarrollo en La Jagua de Ibirico, Cesar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,18 @@
+---
+tipo: registro
+estado: vigente
+creado: 2026-10-29
+actualizado: 2026-10-29
+tags: [log]
+fuentes: [AGENTS.md]
+---
+# Registro cronológico
+
+## [2026-10-29] configuración | Primer arranque del agente
+- Se inspeccionó la app existente, dependencias declaradas, archivos `Docs/`, estructura y entorno disponible.
+- Se leyó texto de misión/visión/productos y del archivo de testimonios; se revisaron visualmente logo y foto de portada. Se creó catálogo con revisiones y permisos pendientes.
+- No hay ZIP, repositorio Git, lockfile ni dependencias instaladas. No se modificó aún la UI ni se ejecutaron compilación, lint o vista previa.
+- Se prepararon AGENTS.md y la wiki con las rutas y reglas de mantenimiento.
+- Se inicializó Git local y se excluyó `Docs/` para proteger los documentos empresariales; no se hizo commit al no haber identidad configurada.
+- Se corrigió el rango de `esbuild` para resolver el conflicto de pares con Vite 8. La instalación completó; build y lint pasaron. No se revisó todavía la interfaz en un navegador.
+- Se abrió la página local en navegador: se revisó visualmente el encabezado y hero de escritorio. El botón principal abrió el formulario de citas; no se enviaron datos. Revisión móvil y recepción real aún pendientes.
