@@ -15,4 +15,5 @@ fuentes: [AGENTS.md]
 - Se prepararon AGENTS.md y la wiki con las rutas y reglas de mantenimiento.
 - Se inicializó Git local y se excluyó `Docs/` para proteger los documentos empresariales. El usuario facilitó identidad local `LuisRuiz35 <ing.ruiznavarroluis@gmail.com>`; commit inicial: `17c9957`.
 - Se corrigió el rango de `esbuild` para resolver el conflicto de pares con Vite 8. La instalación completó; build y lint pasaron. No se revisó todavía la interfaz en un navegador.
+- El usuario indicó subir todo al repositorio GitHub existente `LuisRuiz35/Pagina-Wed-de-Luis-Ruiz`. No se encontró `gh` y Git no logró autenticarse; se identificó la integración de GitHub disponible para conectar. Aún no hay remoto configurado ni cambios enviados.
 - Se abrió la página local en navegador: se revisó visualmente el encabezado y hero de escritorio. El botón principal abrió el formulario de citas; no se enviaron datos. Revisión móvil y recepción real aún pendientes.
