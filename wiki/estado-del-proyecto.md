@@ -15,7 +15,7 @@ fuentes: [package.json, README.md, AGENTS.md]
 - Confirmado: no se localizó ZIP; el código ya extraído en esta carpeta sirve como base. Se generaron `package-lock.json` y `node_modules/` con npm.
 - Confirmado: la instalación inicial reveló que `vite@8` requiere `esbuild ^0.27 || ^0.28`, mientras el proyecto fijaba `^0.25`; se ajustó `package.json` a `^0.28.0` y `npm install` completó (180 paquetes; auditoría reportó 0 vulnerabilidades).
 - Confirmado: `npm run build` compila con éxito. `npm run lint` (`tsc --noEmit`) termina sin errores. Build muestra aviso de Vite sobre `__dirname` en `vite.config.ts` y `configLoader: 'native'`.
-- Confirmado: carpeta no era un repositorio Git al inicio; Git se inicializó localmente y `Docs/` está excluida. Falta crear el primer commit porque no hay identidad local confirmada.
+- Confirmado: Git se inicializó localmente; `Docs/` está excluida. Identidad local configurada a solicitud del usuario: `LuisRuiz35 <ing.ruiznavarroluis@gmail.com>`. Primer commit local creado: `17c9957`.
 
 ## Publicación y comprobaciones
 - Publicación: pendiente; no hay evidencia de destino o sitio público verificado.

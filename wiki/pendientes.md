@@ -17,4 +17,4 @@ fuentes: [package.json, "Docs/TESTIMONIOS.docx", "Docs/PORTADA.jpeg", src/data/c
 - [ ] No se encontró ZIP original. El código ya extraído disponible es la base vigente en esta carpeta; solicitar ZIP solo si se necesita comprobar la procedencia o recuperar contenido.
 - [ ] Revisar el aviso de compatibilidad sobre `__dirname` de `vite.config.ts` en una futura actualización de Vite; la compilación actual sí termina correctamente.
 - [ ] Revisar vista previa en navegador en escritorio/móvil.
-- [ ] Falta identidad Git para el primer commit local; solicitar nombre/correo sin modificar Git global.
+- [ ] Revisar los datos personales de prueba y testimonios antes de subir el commit `17c9957` a GitHub; requiere autorización explícita de transmisión o anonimización previa.
