@@ -17,4 +17,4 @@ fuentes: [package.json, "Docs/TESTIMONIOS.docx", "Docs/PORTADA.jpeg", src/data/c
 - [ ] No se encontró ZIP original. El código ya extraído disponible es la base vigente en esta carpeta; solicitar ZIP solo si se necesita comprobar la procedencia o recuperar contenido.
 - [ ] Revisar el aviso de compatibilidad sobre `__dirname` de `vite.config.ts` en una futura actualización de Vite; la compilación actual sí termina correctamente.
 - [ ] Revisar vista previa en navegador en escritorio/móvil.
-- [ ] Conectar la integración de GitHub para autenticar la subida a `LuisRuiz35/Pagina-Wed-de-Luis-Ruiz`; el intento de consulta Git no pudo autenticarse. El usuario pidió subir el contenido completo a ese destino.
+- [ ] Autenticar GitHub para subir los commits locales a `LuisRuiz35/Pagina-Wed-de-Luis-Ruiz-`; `origin` ya está configurado. La consulta remota responde sin refs y el push no pudo solicitar credenciales en esta sesión.

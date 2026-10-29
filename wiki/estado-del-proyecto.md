@@ -18,7 +18,7 @@ fuentes: [package.json, README.md, AGENTS.md]
 - Confirmado: Git se inicializó localmente; `Docs/` está excluida. Identidad local configurada a solicitud del usuario: `LuisRuiz35 <ing.ruiznavarroluis@gmail.com>`. Primer commit local creado: `17c9957`.
 
 ## Publicación y comprobaciones
-- Publicación: pendiente; no hay evidencia de destino o sitio público verificado.
+- Publicación del sitio: pendiente. GitHub remoto configurado como `origin`: `https://github.com/LuisRuiz35/Pagina-Wed-de-Luis-Ruiz-.git`; no se han enviado commits porque falta autenticación.
 - Compila: sí. Revisado visualmente en navegador: sí, escritorio a 1234 × 712; encabezado, hero y composición legibles. Probado funcionalmente: apertura del formulario desde el botón principal, sí; envío y recepción real, no. Revisión en móvil: pendiente. Publicado: no.
 - Sí se inspeccionó visualmente `Docs/PORTADA.jpeg` (fotografía grupal real en la fachada) y `Docs/LOGO EMPRESA.png` (logo azul y amarillo); se extrajo texto de los dos DOCX.
 
